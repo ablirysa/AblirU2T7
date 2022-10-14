@@ -198,5 +198,4 @@ public class CustomStringMethods {
             return half1 + insertText + half2;
         }
     }
-
 }
